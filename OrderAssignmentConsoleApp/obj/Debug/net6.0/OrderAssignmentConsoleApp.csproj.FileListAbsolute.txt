@@ -1,0 +1,14 @@
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\bin\Debug\net6.0\OrderAssignmentConsoleApp.deps.json
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\bin\Debug\net6.0\OrderAssignmentConsoleApp.runtimeconfig.json
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\bin\Debug\net6.0\OrderAssignmentConsoleApp.dll
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\bin\Debug\net6.0\OrderAssignmentConsoleApp.pdb
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.csproj.AssemblyReference.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.AssemblyInfo.cs
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.dll
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\refint\OrderAssignmentConsoleApp.dll
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.pdb
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\OrderAssignmentConsoleApp.genruntimeconfig.cache
+C:\Users\MICROBYTE COMPUTERS\source\repos\OrderAssignmentConsoleApp\OrderAssignmentConsoleApp\obj\Debug\net6.0\ref\OrderAssignmentConsoleApp.dll
